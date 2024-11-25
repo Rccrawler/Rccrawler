@@ -3,7 +3,7 @@
 ![Estado](https://img.shields.io/badge/Estado-Activo-success.svg)
 ![Contribuciones](https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen.svg)
 
-> **Una frase inspiradora o un eslogan atractivo del proyecto.**
+> **Soy un full estak developer ademas de un apasionado de la tecnologia**
 
 ![Banner del Proyecto](https://via.placeholder.com/1200x400.png?text=Banner+del+Proyecto)
 
