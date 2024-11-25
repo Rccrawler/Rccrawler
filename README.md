@@ -1,7 +1,5 @@
 # 🌟 Rccrawler 🌟
 
-![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)
-![Versión](https://img.shields.io/badge/Versión-1.0.0-brightgreen.svg)
 ![Estado](https://img.shields.io/badge/Estado-Activo-success.svg)
 ![Contribuciones](https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen.svg)
 
