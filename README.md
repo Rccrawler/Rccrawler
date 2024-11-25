@@ -31,7 +31,7 @@ También quiero cambiar la percepción de que ahora se valora más el "copiar y 
 - ...
 - 🎨 **Espero crear cosas muy creativas**
 
-## 🔧 Colonización del repo
+## 🔧 Colonización de los repositorios
 Sigue estos sencillos pasos para instalar el proyecto:
 
 ```bash
