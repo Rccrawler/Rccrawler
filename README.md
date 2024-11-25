@@ -20,10 +20,9 @@ También quiero cambiar la percepción de que ahora se valora más el "copiar y 
 1. [✨ Características](#-características)
 2. [🔧 Instalación](#-instalación)
 3. [📚 Uso](#-uso)
-4. [🤝 Contribución](#-contribución)
-5. [📜 Historial de Cambios](#-historial-de-cambios)
-6. [📄 Licencia](#-licencia)
-7. [📬 Contacto](#-contacto)
+4. [🤝 Contribución](se acepta cualquier contribucion en cualquiera de los proyectos)
+6. [📄 Licencia](casi todos mis rpositorios son publicos y de uso libre)
+7. [📬 Contacto](prueba a escrivirme por github)
 
 ## ✨ Características
 - ✅ **Característica 1**: Descripción breve.
