@@ -31,10 +31,9 @@ También quiero cambiar la percepción de que ahora se valora más el "copiar y 
 - ...
 - 🎨 **Característica N**: Descripción breve.
 
-## 🔧 Instalación
+## 🔧 Colonacion del repo
 Sigue estos sencillos pasos para instalar el proyecto:
 
 ```bash
 git clone https://github.com/usuario/nombre-proyecto.git
 cd nombre-proyecto
-npm install
