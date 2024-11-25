@@ -12,7 +12,9 @@ Soy un profesional de la tecnología desde 2023. A lo largo de los años, he est
 
 Lo que antes eran las webs no tiene nada que ber con la actual un espacio abierto de código libre y creativo está siendo reemplazado por modelos comerciales que limitan el acceso y la libertad. Las grandes empresas dominan el mercado de la tecnología, y cada vez se hace más difícil acceder a herramientas sin tener que pagar más por ellas. Mi objetivo es cambiar esta tendencia: quiero compartir mis conocimientos y proyectos para que las personas puedan aprender de código real y genuino, sin restricciones ni intereses comerciales ocultos.
 
-Cuando era más joven, me habría encantado poder programar, pero noté que muchos no compartían sus conocimientos por miedo a que otros pudieran superarlos. Yo creo en la colaboración y en enseñar de manera abierta y honesta. Aunque por el momento no tengo mucho tiempo para subir contenido ni muchos proyectos listos, iré compartiendo mis avances y aprendizajes con el tiempo.**Hazlo interesante y llamativo.**
+Cuando era más joven, me habría encantado poder programar, pero noté que muchos no compartían sus conocimientos por miedo a que otros pudieran superarlos. Yo creo en la colaboración y en enseñar de manera abierta y honesta. Aunque por el momento no tengo mucho tiempo para subir contenido ni muchos proyectos listos, iré compartiendo mis avances y aprendizajes con el tiempo.
+
+Tanbien quiero canviar que parce que haora baloran mas hacer corta y pega que no un trabajo creatibo e inobador y echo sin programas o erramientas que te hagan el trabajo siendo todo plantllas o cosas iguales a otras esto tiene que canviar sino todo se precera a todo y el mundo perdera su gracia para ber este problema solo hay que figarse en las webs que todas copian a otras que una sca un estilo para los botones que a la otra le interes atomo control c control v, que un cohceh tiene mas bentas por poner algo luego las marcas en bez de sacar algo nuebo para sacar bentas cojen lo que el otro izo**Hazlo interesante y llamativo.**
 
 ## 📋 Tabla de Contenidos
 1. [✨ Características](#-características)
