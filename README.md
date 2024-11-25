@@ -17,9 +17,9 @@ Cuando era más joven, me habría encantado poder programar, pero noté que much
 También quiero cambiar la percepción de que ahora se valora más el "copiar y pegar" que el trabajo creativo e innovador, hecho sin programas o herramientas que hagan todo el trabajo. Actualmente, todo parece ser plantillas o cosas iguales a otras, y esto tiene que cambiar, porque si no, todo perderá su esencia y el mundo perderá su creatividad. Para ver este problema, solo hay que fijarse en las páginas web, donde todas copian el diseño de otras. Si una crea un estilo para los botones, la otra lo copia al instante con "control C" y "control V". Es como si un coche tuviera más ventas por poner algo de moda, y en lugar de sacar algo nuevo, las marcas simplemente copian lo que hizo el otro.**Hazlo interesante y llamativo.**
 
 ## 📋 Tabla de Contenidos
-1. [✨ Características](#-características)
-2. [🔧 Instalación](#-instalación)
-3. [📚 Uso](#-uso)
+1. [✨ Prollectos](#-características)
+2. [🔧 Manual](casi todo el sofware vien bien indicado y organizado pero me podeis escribir y hos respondere)
+3. [📚 Uso](mi sofware es para el aprendizage y uso libre)
 4. [🤝 Contribución](se acepta cualquier contribucion en cualquiera de los proyectos)
 6. [📄 Licencia](casi todos mis rpositorios son publicos y de uso libre)
 7. [📬 Contacto](prueba a escrivirme por github)
