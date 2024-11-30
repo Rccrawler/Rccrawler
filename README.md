@@ -5,7 +5,7 @@
 
 > **Soy un full estak developer ademas de un apasionado de la tecnologia**
 
-![Banner del Proyecto](https://via.placeholder.com/1200x400.png?text=Banner+del+Proyecto)
+![Banner del Proyecto]([https://via.placeholder.com/1200x400.png?text=Banner+del+Proyecto](https://github.com/Rccrawler/Rccrawler/blob/main/may-quehboard%20-%20copia.jpg))
 
 ## 🚀 Descripción
 Soy un profesional de la tecnología desde 2023. A lo largo de los años, he estudiado diversas tecnologías para entender qué hacen los programadores y cómo evolucionan en este campo. He aprendido mucho, explorando herramientas y replicando algunas de ellas. Sin embargo, he llegado a la conclusión de que ninguna tecnología es perfecta, y cada vez más todo parece convertirse en un mercado controlado por grandes empresas. Ya no existen los programadores de antes, aquellos que creaban sus propios códigos, innovaban y se alejaban de las estructuras rígidas. Hoy en día, las páginas web y muchas aplicaciones se centran más en la venta que en la verdadera comunicación y el intercambio de ideas sin un fin económico.
