@@ -94,5 +94,5 @@ cd nombre-proyecto
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/Rccrawler/Rccrawler?label=%C3%9Altima%20actualizaci%C3%B3n&color=blue&logo=github&style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/Rccrawler/Rccrawler?label=%C3%9Altima%20actualizaci%C3%B3n&color=gray&logo=github&style=flat" />
 </p>
