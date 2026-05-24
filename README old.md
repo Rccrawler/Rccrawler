@@ -1,64 +1,13 @@
-# <center> Hola mi apodo es: Rccrawler </center>
+# 🌟Hola mi apodo es: Rccrawler 🌟
 
 ![Estado](https://img.shields.io/badge/Estado-Activo-success.svg)
 ![Contribuciones](https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen.svg)
-![Developer desde](https://img.shields.io/badge/Developer%20Desde-Abril%202023-blue?logo=github)
-![Repositorios](https://img.shields.io/badge/Repositorios-35-orange?logo=git)
 
-![Typing Effect](typing.svg)
+> **Soy un full estak developer ademas de un apasionado de la tecnologia**
 
-```java
-public class Main {
-    public static void main(String[] args) {
-        Rccrawler();
-    }
+![Banner del Proyecto](https://github.com/Rccrawler/Rccrawler/blob/main/may-quehboard%20-%20copia.jpg))
 
-    public static void Rccrawler() {
-        System.out.println("Name = Rccrawler");
-        System.out.println("hobby = Java, operating system, Robotic");
-        System.out.println("code = ['java', 'HTML', 'CSS', 'python']");
-        System.out.println("coding() {}");
-        System.out.println("writing() {}");
-    }
-}
-```
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> Lenguages and Tools: </h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<!-- faltan iconos -->
-<!-- se podria separa por categorias y recuadros los iconos-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,cpp,css,discord,docker,postgres,obsidian,express,figma,firebase,html,java,js,linux,md,nginx,rust,mysql,nodejs,py,react,vscode,flutter,arduino,raspberrypi,fedora,virtualbox,esp32,ibm i,bootstrap,androidstudio,bash,nestjs,windows,terraform,pycharm,rider,webstorm,idea,wordpress,vscodium,ubuntu,sqlite,sublime,supabase,npm,mint,dart,cloudflare"/>
-  </a>
-</p>
-
-
-
-<!--- stats & Languages (start) -->
-<p align="center">
-    <table align="center">
-        <tr border="none">
-            <td width="50%" align="center">
-                <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rccrawler&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=20&layout=compact"/>
-                <p align="center">
-                    <a href="https://github.com/Rccrawler?tab=repositories"><sup>Ver todos los proyectos y detalles</sup></a>
-                </p>
-            </td>
-        </tr>
-    </table>
-</p>
-<!--- stats (end) -->
-
-<!--- poner un juego directamente en el md -->
-
-![Banner del Proyecto](may-quehboard%20-%20copia.jpg)
-
-## <center> 🚀 Descripción </center>
+## 🚀 Descripción
 Soy un profesional de la tecnología desde 2023. A lo largo de los años, he estudiado diversas tecnologías para entender qué hacen los programadores y cómo evolucionan en este campo. He aprendido mucho, explorando herramientas y replicando algunas de ellas. Sin embargo, he llegado a la conclusión de que ninguna tecnología es perfecta, y cada vez más todo parece convertirse en un mercado controlado por grandes empresas. Ya no existen los programadores de antes, aquellos que creaban sus propios códigos, innovaban y se alejaban de las estructuras rígidas. Hoy en día, las páginas web y muchas aplicaciones se centran más en la venta que en la verdadera comunicación y el intercambio de ideas sin un fin económico.
 
 Lo que antes eran las webs no tiene nada que ber con la actual un espacio abierto de código libre y creativo está siendo reemplazado por modelos comerciales que limitan el acceso y la libertad. Las grandes empresas dominan el mercado de la tecnología, y cada vez se hace más difícil acceder a herramientas sin tener que pagar más por ellas. Mi objetivo es cambiar esta tendencia: quiero compartir mis conocimientos y proyectos para que las personas puedan aprender de código real y genuino, sin restricciones ni intereses comerciales ocultos.
@@ -88,9 +37,3 @@ Sigue estos sencillos pasos para instalar el proyecto:
 ```bash
 git clone https://github.com/usuario/nombre-proyecto.git
 cd nombre-proyecto
-```
-
----
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/Rccrawler/Rccrawler?label=%C3%9Altima%20actualizaci%C3%B3n&color=blue&logo=github&style=flat-square" />
-</p>
