@@ -69,29 +69,6 @@ Cuando era más joven, me habría encantado poder programar, pero noté que much
 
 También quiero cambiar la percepción de que ahora se valora más el "copiar y pegar" que el trabajo creativo e innovador, hecho sin programas o herramientas que hagan todo el trabajo. Actualmente, todo parece ser plantillas o cosas iguales a otras, y esto tiene que cambiar, porque si no, todo perderá su esencia y el mundo perderá su creatividad. Para ver este problema, solo hay que fijarse en las páginas web, donde todas copian el diseño de otras. Si una crea un estilo para los botones, la otra lo copia al instante con "control C" y "control V". Es como si un coche tuviera más ventas por poner algo de moda, y en lugar de sacar algo nuevo, las marcas simplemente copian lo que hizo el otro.
 
-## 📋 Información útil sobre los proyectos:
-1. [✨ Proyectos](#-características)
-2. [🔧 Manual](Casi todo el software está bien indicado y organizado, pero me podéis escribir y hos responderé)
-3. [📚 Uso](Mi software es para el aprendizaje y uso libre)
-4. [🤝 Contribución](Se acepta cualquier contribución en cualquiera de los proyectos)
-6. [📄 Licencia](Casi todos mis repositorios son públicos y de uso libre)
-7. [📬 Contacto](Prueba a escribirme por GitHub)
-
-## ✨ Que se intenta conseguir:
-- ✅ **Que todos los usuarios lo puedan usar**.
-- ✅ **Código legible y muy comentado**
-- ✅ **Innovación en cada línea**
-- ...
-- 🎨 **Espero crear cosas muy creativas**
-
-## 🔧 Colonización de los repositorios:
-Sigue estos sencillos pasos para instalar el proyecto:
-
-```bash
-git clone https://github.com/usuario/nombre-proyecto.git
-cd nombre-proyecto
-```
-
 ---
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Rccrawler/Rccrawler?label=%C3%9Altima%20actualizaci%C3%B3n&color=gray&logo=github&style=flat" />
