@@ -1,7 +1,7 @@
 # <center> Hello my nickname is: Rccrawler </center>
 
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
-![Contributions](https://img.shields.io/badge/Contributions-Welcomed-brightgreen.svg)  ![Developer Since](https://img.shields.io/badge/Developer%20Since-April%202023-blue?logo=github)  ![Repositories](https://img.shields.io/badge/Repositories-35-orange?logo=git)
+![Contributions](https://img.shields.io/badge/Contributions-Welcomed-brightgreen.svg)  ![Developer Since](https://img.shields.io/badge/Developer%20Since-April%202023-blue?logo=github)  ![Repositories](https://img.shields.io/badge/Repositories-35-orange?logo=git) &nbsp; <a href="https://www.codingame.com/profile/d61605888eb599b2f4fc8b1c556cb7736027196"><img src="https://cdn.simpleicons.org/codingame/f2bb13" alt="CodinGame" width="80" height="80" align="center" /></a>
 
 ![Typing Effect](typing.svg)
 
