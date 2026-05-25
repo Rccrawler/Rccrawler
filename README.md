@@ -1,9 +1,7 @@
-# <center> Hola mi apodo es: Rccrawler </center>
+# <center> Hello my nickname is: Rccrawler </center>
 
-![Estado](https://img.shields.io/badge/Estado-Activo-success.svg)
-![Contribuciones](https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen.svg)
-![Developer desde](https://img.shields.io/badge/Developer%20Desde-Abril%202023-blue?logo=github)
-![Repositorios](https://img.shields.io/badge/Repositorios-35-orange?logo=git)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Welcomed-brightgreen.svg)  ![Developer Since](https://img.shields.io/badge/Developer%20Since-April%202023-blue?logo=github)  ![Repositories](https://img.shields.io/badge/Repositories-35-orange?logo=git)
 
 ![Typing Effect](typing.svg)
 
@@ -16,6 +14,10 @@ public class Main {
     public static void Rccrawler() {
         System.out.println("Name = Rccrawler");
         System.out.println("hobby = Java, operating system, Robotic");
+        """
+        Higher degree studies in 
+        cross-platform application development
+        """
         System.out.println("code = ['java', 'HTML', 'CSS', 'python']");
         System.out.println("coding() {}");
         System.out.println("writing() {}");
@@ -25,21 +27,19 @@ public class Main {
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> Lenguajes y Herramientas </h2></summary>
+    <summary><h2 style="display: inline-block"> Languages and Tools </h2></summary>
   </ul>
 </div>
 
-| Categoría | Iconos |
+| Category | Icons |
 | :--- | :--- |
-| **Lenguajes** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,rust,dart,bash,md,html,css" /></a> |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,rust,dart,bash,md,html,css" /></a> |
 | **Frontend & Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,react,bootstrap,flutter,nodejs,express,nestjs,npm,wordpress" /></a> |
-| **Bases de Datos & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,aws,cloudflare" /></a> |
-| **DevOps & Herramientas** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,terraform,nginx,vscode,vscodium" /></a> |
-| **Sistemas Operativos** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,fedora,ubuntu,mint,windows,ibmi" /></a> |
-| **Software & Diseño** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pycharm,rider,webstorm,idea,androidstudio,sublime,figma,obsidian,discord,virtualbox" /></a> |
+| **Databases & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,aws,cloudflare,oracle" /></a> |
+| **DevOps & Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,terraform,nginx,vscode,vscodium" /></a> |
+| **Operating Systems** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,windows,fedora,ibmi" /></a> |
+| **Software & Design** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pycharm,rider,webstorm,idea,androidstudio,sublime,figma,obsidian,discord,virtualbox" /></a> |
 | **Hardware** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32" /></a> |
-
-
 
 <!--- stats & Languages (start) -->
 <p align="center">
@@ -48,7 +48,7 @@ public class Main {
             <td width="50%" align="center">
                 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rccrawler&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=20&layout=compact"/>
                 <p align="center">
-                    <a href="https://github.com/Rccrawler?tab=repositories"><sup>Ver todos los proyectos y detalles</sup></a>
+                    <a href="https://github.com/Rccrawler?tab=repositories"><sup>See all projects and details</sup></a>
                 </p>
             </td>
         </tr>
@@ -57,19 +57,22 @@ public class Main {
 <!--- stats (end) -->
 
 <!--- poner un juego directamente en el md -->
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="Earth.gif" alt="Small gif" width="20" height="20" />
+  <h2>&nbsp; Description </h2>
+  <h3> </h3>
+</div>
 
-![Banner del Proyecto](may-quehboard%20-%20copia.jpg)
+I've been a technology professional since 2023. Over the years, I've studied various technologies to understand what programmers do and how they evolve in this field. I've learned a lot, exploring tools and replicating some of them. However, I've come to the conclusion that no technology is perfect, and increasingly, everything seems to be becoming a market controlled by large corporations. The programmers of yesteryear, those who created their own code, innovated, and moved away from rigid structures, no longer exist. Today, websites and many applications focus more on sales than on genuine communication and the exchange of ideas without a financial motive.
 
-## <center> 🚀 Descripción </center>
-Soy un profesional de la tecnología desde 2023. A lo largo de los años, he estudiado diversas tecnologías para entender qué hacen los programadores y cómo evolucionan en este campo. He aprendido mucho, explorando herramientas y replicando algunas de ellas. Sin embargo, he llegado a la conclusión de que ninguna tecnología es perfecta, y cada vez más todo parece convertirse en un mercado controlado por grandes empresas. Ya no existen los programadores de antes, aquellos que creaban sus propios códigos, innovaban y se alejaban de las estructuras rígidas. Hoy en día, las páginas web y muchas aplicaciones se centran más en la venta que en la verdadera comunicación y el intercambio de ideas sin un fin económico.
+What used to be websites has nothing to do with what we have today. An open space for free and creative code is being replaced by commercial models that limit access and freedom. Large corporations dominate the technology market, and it's becoming increasingly closed. My goal is to change this trend: I want to share my knowledge and projects so that people can learn from real, genuine code, without restrictions or hidden commercial interests.
 
-Lo que antes eran las webs no tiene nada que ber con la actual un espacio abierto de código libre y creativo está siendo reemplazado por modelos comerciales que limitan el acceso y la libertad. Las grandes empresas dominan el mercado de la tecnología, y cada vez se hace más difícil acceder a herramientas sin tener que pagar más por ellas. Mi objetivo es cambiar esta tendencia: quiero compartir mis conocimientos y proyectos para que las personas puedan aprender de código real y genuino, sin restricciones ni intereses comerciales ocultos.
+When I was younger, I would have loved to be a programmer, but I noticed that many people didn't share their knowledge for fear of being surpassed. I believe in collaboration and in teaching openly and honestly. Although at the moment I don't have much time to upload content or many projects ready.
 
-Cuando era más joven, me habría encantado poder programar, pero noté que muchos no compartían sus conocimientos por miedo a que otros pudieran superarlos. Yo creo en la colaboración y en enseñar de manera abierta y honesta. Aunque por el momento no tengo mucho tiempo para subir contenido ni muchos proyectos listos, iré compartiendo mis avances y aprendizajes con el tiempo.
-
-También quiero cambiar la percepción de que ahora se valora más el "copiar y pegar" que el trabajo creativo e innovador, hecho sin programas o herramientas que hagan todo el trabajo. Actualmente, todo parece ser plantillas o cosas iguales a otras, y esto tiene que cambiar, porque si no, todo perderá su esencia y el mundo perderá su creatividad. Para ver este problema, solo hay que fijarse en las páginas web, donde todas copian el diseño de otras. Si una crea un estilo para los botones, la otra lo copia al instante con "control C" y "control V". Es como si un coche tuviera más ventas por poner algo de moda, y en lugar de sacar algo nuevo, las marcas simplemente copian lo que hizo el otro.
+I also want to change the perception that "copy and paste" is now valued more than creative and innovative work.
+Currently, everything seems to be templates or identical to others, and this has to change, because otherwise, everything will lose its essence and the world will lose its creativity. To see this problem, you only have to look at websites, where everyone copies each other's designs. If one creates a style for the buttons, another instantly copies it with "Ctrl+C" and "Ctrl+V".
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/Rccrawler/Rccrawler?label=%C3%9Altima%20actualizaci%C3%B3n&color=gray&logo=github&style=flat" />
+  <img src="https://img.shields.io/github/last-commit/Rccrawler/Rccrawler?label=Last+update&color=gray&logo=github&style=flat" />
 </p>
