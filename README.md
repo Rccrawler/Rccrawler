@@ -59,7 +59,7 @@ public class Main {
 <!--- poner un juego directamente en el md -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="Earth.gif" alt="Small gif" width="20" height="20" />
-  <h2>&nbsp; Description </h2>
+  <h2> Description</h2>
   <h3> </h3>
 </div>
 
