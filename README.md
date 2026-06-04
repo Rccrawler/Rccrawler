@@ -37,7 +37,7 @@ public class Main {
 | **Frontend & Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,react,bootstrap,flutter,nodejs,express,nestjs,npm,wordpress" /></a> |
 | **Databases & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,aws,cloudflare,oracle" /></a> |
 | **DevOps & Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,terraform,nginx,vscode,vscodium" /></a> |
-| **Operating Systems** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,windows,fedora,ibmi" /></a> |
+| **Operating Systems** | <a href="https://skillicons.dev"><img src="https://skills.syvixor.com/api/icons?i=linux,ubuntu,mint,windows,fedora,ibmi" /></a> |
 | **Software & Design** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pycharm,rider,webstorm,idea,androidstudio,sublime,figma,obsidian,discord,virtualbox" /></a> |
 | **Hardware** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32" /></a> |
 
