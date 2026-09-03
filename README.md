@@ -64,8 +64,6 @@ public class Main {
 
 I've been a technology professional since 2023. Over the years, I've studied various technologies to understand what programmers do and how they evolve in this field. I've learned a lot, exploring tools and replicating some of them. However, I've come to the conclusion that no technology is perfect, and increasingly, everything seems to be becoming a market controlled by large corporations. The programmers of yesteryear, those who created their own code, innovated, and moved away from rigid structures, no longer exist. Today, websites and many applications focus more on sales than on genuine communication and the exchange of ideas without a financial motive.
 
-What used to be websites has nothing to do with what we have today. An open space for free and creative code is being replaced by commercial models that limit access and freedom. Large corporations dominate the technology market, and it's becoming increasingly closed. My goal is to change this trend: I want to share my knowledge and projects so that people can learn from real, genuine code, without restrictions or hidden commercial interests.
-
 When I was younger, I would have loved to be a programmer, but I noticed that many people didn't share their knowledge for fear of being surpassed. I believe in collaboration and in teaching openly and honestly. Although at the moment I don't have much time to upload content or many projects ready.
 
 I also want to change the perception that "copy and paste" is now valued more than creative and innovative work.
