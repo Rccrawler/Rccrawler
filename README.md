@@ -62,12 +62,17 @@ public class Main {
   <h3> </h3>
 </div>
 
-I've been a technology professional since 2023. Over the years, I've studied various technologies to understand what programmers do and how they evolve in this field. I've learned a lot, exploring tools and replicating some of them. However, I've come to the conclusion that no technology is perfect, and increasingly, everything seems to be becoming a market controlled by large corporations. The programmers of yesteryear, those who created their own code, innovated, and moved away from rigid structures, no longer exist. Today, websites and many applications focus more on sales than on genuine communication and the exchange of ideas without a financial motive.
+I have been working in the technology field since 2023, with a strong interest in computer science, software development, and exploring new technologies.
 
-When I was younger, I would have loved to be a programmer, but I noticed that many people didn't share their knowledge for fear of being surpassed. I believe in collaboration and in teaching openly and honestly. Although at the moment I don't have much time to upload content or many projects ready.
+Throughout my learning and professional journey, I have worked with different tools and technologies, focusing not only on learning how to use them, but also on understanding how they work and how they can be applied to solve real-world problems. I enjoy experimenting, analyzing existing solutions, and learning through hands-on experience.
 
-I also want to change the perception that "copy and paste" is now valued more than creative and innovative work.
-Currently, everything seems to be templates or identical to others, and this has to change, because otherwise, everything will lose its essence and the world will lose its creativity. To see this problem, you only have to look at websites, where everyone copies each other's designs. If one creates a style for the buttons, another instantly copies it with "Ctrl+C" and "Ctrl+V".
+One of the aspects I value most in the technology industry is continuous learning and collaboration. I believe that sharing knowledge, documenting what we learn, and helping others contributes to building a more open and capable technology community.
+
+I am particularly interested in working on projects where I can continue developing professionally, contribute my knowledge, and take on new technical challenges. I believe that creativity, the ability to learn, and finding effective solutions are essential qualities for professional growth.
+
+I am currently continuing to expand my knowledge and work on personal projects whenever time allows, with the goal of constantly improving my skills and bringing increasing value to the projects I work on.
+
+My professional goal is to continue growing within the technology industry, learn from other professionals, and contribute to projects where technology, creativity, and teamwork play an important role.
 
 ---
 <p align="center">
