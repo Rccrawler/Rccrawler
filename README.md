@@ -1,4 +1,12 @@
 # <center> Hello my nickname is: Rccrawler </center>
+### My nickname
+
+**Rccrawler** is my personal online nickname, inspired by my passion for RC vehicles and technology. I created it years ago when I first started programming, and it has remained part of my online identity ever since.
+
+Over the years, I have used **Rccrawler** across my projects, profiles, and different things I have created while learning and working in technology. At this point, it has become more than just a nickname — it is simply the name people know me by online.
+
+Could I change it? Of course. But after all these years, I would probably have to change half my projects, profiles, and paperwork too... so I think **Rccrawler is here to stay.** 😄
+
 
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcomed-brightgreen.svg)  ![Developer Since](https://img.shields.io/badge/Developer%20Since-April%202023-blue?logo=github)  ![Repositories](https://img.shields.io/badge/Repositories-35-orange?logo=git) &nbsp; <a href="https://www.codingame.com/profile/d61605888eb599b2f4fc8b1c556cb7736027196"><img src="https://cdn.simpleicons.org/codingame/f2bb13" alt="CodinGame" width="80" height="80" align="center" /></a>
