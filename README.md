@@ -84,5 +84,5 @@ My professional goal is to continue growing within the technology industry, lear
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/Rccrawler/Rccrawler?label=Last+update&color=gray&logo=github&style=flat" />
+  <img src="https://img.shields.io/badge/Rccrawler-Developer%20%7C%20Technology-gray?logo=github&style=flat" />
 </p>
